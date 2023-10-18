@@ -12,7 +12,7 @@ gitops:
         harness.io/envRef: harnessdevenv
     spec:
       source:
-        repoURL: https://github.com/harness-community/harnesscd-example-apps
+        repoURL: https://github.com/ankushparab/harnesscd-example-apps
         path: helm-guestbook
         targetRevision: master
       destination:
